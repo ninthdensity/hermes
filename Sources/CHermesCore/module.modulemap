@@ -1,0 +1,5 @@
+module CHermesCore {
+    header "hermes_core.h"
+    link "hermes_core"
+    export *
+}
